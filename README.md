@@ -4,7 +4,7 @@ This repository is supposed to handle the following topics:
 
 - **Understanding sequence-to-sequence data**
 - **Building a sequence-to-sequence machine translation model**
-![encoder-decoder-machine-translation](plots/enc-dec.svg)
+<!-- ![encoder-decoder-machine-translation](plots/enc-dec.svg) -->
 - **Training and evaluating sequence-to-sequence models**
 - **Repurposing the trained model to generate translations for unseen text**
 
