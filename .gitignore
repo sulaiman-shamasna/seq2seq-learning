@@ -162,3 +162,8 @@ cython_debug/
 #.idea/
 
 deu-eng.zip
+
+.$seq2seq.drawio.bkp
+data/_about.txt
+data/deu.txt
+seq2seq.drawio
