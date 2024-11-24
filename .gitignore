@@ -167,3 +167,15 @@ deu-eng.zip
 data/_about.txt
 data/deu.txt
 seq2seq.drawio
+
+models/
+
+.$seq2seq.drawio.dtmp
+
+Untitled.ipynb
+en2de_translator.h5
+en2ger_translator copy 2.ipynb
+en2ger_translator copy.ipynb
+models/
+plots/Screenshot 2024-11-23 001054.png
+seq2seq-keras.ipynb
